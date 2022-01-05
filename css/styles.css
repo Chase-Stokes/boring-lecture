@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://cdn.writermag.com/2019/09/shutterstock_1107694685_web.jpg")
+}
+
+.intro {
+  color: limegreen;
+  border: 2px solid black;
+}
+
+h2 {
+  text-align: center;
+  width: 25%;
+}
+
+p {
+  color: yellow;
+}
